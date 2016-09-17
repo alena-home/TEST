@@ -3,5 +3,6 @@
 
 void main()
 {
+	int j, k;
 	std::cout << "hello world";
 }
