@@ -1,6 +1,7 @@
 #include <stdio.h>
+#include <iostream>
 
 void main()
 {
-	cout << "hello world";
+	std::cout << "hello world";
 }
