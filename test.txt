@@ -4,5 +4,6 @@
 void main()
 {
 	int j, k;
+	int i=0;
 	std::cout << "hello world";
 }
